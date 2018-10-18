@@ -1,5 +1,5 @@
-int a
-int b
+a=input()
+b=input()
 
 
 print(a*b)
